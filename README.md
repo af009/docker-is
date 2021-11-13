@@ -1,4 +1,4 @@
-# Docker Project Infrastructure
+# Docker Project (Infrastructure)
 ## We Create a project that uses Terraform to build the infrastructure for our Docker project.
 
 ### This time we only create two VMs for each environment.
