@@ -14,7 +14,7 @@
 ## 2- Create azure account
 ## 3- Install the Azure CLI and authenticate with Azure with the following command:
 #     `az login`
-## 4- Clone the project: (https://github.com/af009/ansible-project)
+## 4- Clone the project: (https://github.com/af009/docker-is.git)
 ## 5- Create a file called terraform-stage.tfvars in the root folder
 ```
 environment_name = "staging"
